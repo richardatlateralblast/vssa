@@ -1,4 +1,4 @@
-![alt tag](https://raw.githubusercontent.com/richardatlateralblast/vssa/master/vss.jpg)
+![alt tag](https://raw.githubusercontent.com/richardatlateralblast/vssa/master/vss.png)
 
 VSSA
 ====
