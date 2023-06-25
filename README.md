@@ -3,7 +3,7 @@
 VSSA
 ====
 
-Visio Stencil Source A
+Visio Stencils -  A
 
 Introduction
 ------------
